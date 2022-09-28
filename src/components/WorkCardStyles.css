@@ -34,7 +34,7 @@
 
 .pro-btns{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     padding: 0.5rem 0;
 }
 

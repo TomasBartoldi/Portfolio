@@ -7,7 +7,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Weather-App",
         text: "This App was made at Henry's Bootcamp, getting info from a API, using React, React-Routing and Bootstrap.",
-        view: 'url.com',
+        view: 'url.com', /* https://https://github.com/TomasBartoldi/Weather-App */
         source: ''
     },
 
