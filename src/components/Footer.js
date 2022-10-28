@@ -30,8 +30,13 @@ const Footer = () => {
             <h4>About me</h4>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             <div className='social'>
-               <FaGithub size={30} style={{ color: '#fff', marginRight: '1rem' }} />
+              <a href='https://github.com/TomasBartoldi'>
+              <FaGithub size={30} style={{ color: '#fff', marginRight: '1rem' }} />
+              </a>
+               <a href='https://www.linkedin.com/in/tomas-bartoldi-395818242/'>
                <FaLinkedin size={30} style={{ color: '#fff', marginRight: '1rem' }} />
+               </a>
+               
             </div>
           </div>
         </div>
