@@ -1,15 +1,15 @@
 .heroe-img{
     width: 100%;
     background: rgba(0, 0, 0, 0.5);
-    height: 60vh;
+    height: 100vh;
     position: relative;
 }
 
 .heroe-img::before{
     content: '';
-    background: url('https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1925&q=80');
+    background: url('https://wallpapers.com/images/file/aesthetic-outer-space-cartoon-art-mrcfxrvsogohbx8e-mrcfxrvsogohbx8e.jpg');
     background-size: cover;
-    background-position: center top;
+    background-position: center center;
     height: 100%;
     width: 100%;
     position: absolute;

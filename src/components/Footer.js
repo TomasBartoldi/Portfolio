@@ -28,7 +28,7 @@ const Footer = () => {
 
           <div className='right'>
             <h4>About me</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p>I am a Full Stack Developer looking for a job where I can develop myself and grow in knowledge</p>
             <div className='social'>
               <a href='https://github.com/TomasBartoldi'>
               <FaGithub size={30} style={{ color: '#fff', marginRight: '1rem' }} />
