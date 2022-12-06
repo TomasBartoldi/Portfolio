@@ -13,7 +13,7 @@ const ProjectCardData = [
     {
         imgsrc: pro2,
         title: "Weather-App",
-        text: "This App was made at Henry's Bootcamp, getting info from a API, using React, Class components, React-router and React-router-dom. For styles CSS (PURE) and the icons are from react-icons library",
+        text: "This App was made at Henry's Bootcamp, getting info from an API using React, Class components, React-router and React-router-dom. For styles CSS (PURE) and the icons are from react-icons library",
         view: 'https://weather-app-tomasbartoldi.vercel.app/',
         
     },
